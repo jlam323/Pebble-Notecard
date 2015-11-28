@@ -1,0 +1,43 @@
+# project  configured on Sat Nov 28 11:43:36 2015 by
+# waf 1.7.11 (abi 98, python 20709f0 on linux2)
+# using /home/charlie/pebble-dev/PebbleSDK-3.7/Pebble/waf configure
+#
+----------------------------------------
+Setting top to
+/home/charlie/git/Pebble Project/hello-pebble
+----------------------------------------
+Setting out to
+/home/charlie/git/Pebble Project/hello-pebble/build
+----------------------------------------
+Found Pebble SDK for chalk in:
+/home/charlie/pebble-dev/PebbleSDK-3.7/Pebble/chalk
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-gcc-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-gcc-ar'
+----------------------------------------
+Found Pebble SDK for basalt in:
+/home/charlie/pebble-dev/PebbleSDK-3.7/Pebble/basalt
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-gcc-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-gcc-ar'
+----------------------------------------
+Found Pebble SDK for aplite in:
+/home/charlie/pebble-dev/PebbleSDK-3.7/Pebble/aplite
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-gcc-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-gcc-ar'
